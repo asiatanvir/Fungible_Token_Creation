@@ -23,7 +23,7 @@ Notable features of project include creation of,
 ![image_4](evaluation_results/crowdsaleDeployer_deploying.png)    | ![image_6](evaluation_results/deployingcrowdsale.png)
  
 
-## Buying Coins
+## Buying New Tokens
 
 
 ![image_7](evaluation_results/buying_token.png)
