@@ -11,7 +11,7 @@ Notable features of project include creation of,
 
 # Evaluation Evidence
 
-## KasieCoin Token Contract Compiler
+## KasieCoin Contract Compiler
 
 | KasieCoin                                                    | KasieCoin Crowdsale                                           | KasieCoin CrowdsaleDeployer   
 
