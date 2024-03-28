@@ -20,7 +20,7 @@ Notable features of project include creation of,
 
 ## Deploying Crowdsale to a Blockchain using MetaMask
 
-![image_4](evaluation_results/crowdsaleDeployer_deploying.png)   |  ![image_5](evaluation_results/crowdsaleDeployer_deploying2.png)  | ![image_6](evaluation_results/deployingcrowdsale.png)
+![image_4](evaluation_results/crowdsaleDeployer_deploying.png)    | ![image_6](evaluation_results/deployingcrowdsale.png)
  
 
 ## Buying Coins
